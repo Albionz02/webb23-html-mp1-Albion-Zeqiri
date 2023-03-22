@@ -1,0 +1,23 @@
+h1{
+    color: rgb(0, 4, 255);
+}
+
+.box5 {
+    padding-right: 0px;
+}
+
+ol :hover {
+    color:  #555;
+}
+
+LI a{
+
+   color: #261717; ;
+
+
+}
+
+.my-class {
+    margin-top: 100px;
+
+}
