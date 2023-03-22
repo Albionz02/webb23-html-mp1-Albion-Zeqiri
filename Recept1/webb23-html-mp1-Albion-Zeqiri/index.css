@@ -1,0 +1,19 @@
+h1{
+    color: rgb(0, 255, 72);
+}
+img{
+    width: 350px;
+}
+table{
+    border: solid 2px rgb(0, 0, 0);
+    background-color: ;
+    margin-left: 300px;
+}
+th{
+    border: solid 2px black;
+    background-color: rgb(255, 0, 0);
+}
+td{
+    border: solid 2px black;
+    background-color: rgb(255, 0, 0);
+}
